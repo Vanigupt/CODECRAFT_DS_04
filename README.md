@@ -6,40 +6,41 @@ The dataset used for this task is the Twitter_Entity _Sentiment _Analysis_Datase
 
 # 🛠 Tools & Libraries Used
 🔹 Jupyter Notebook
+
 🔹 Pandas
+
 🔹 NumPy
+
 🔹 Matplotlib & Seaborn
+
 🔹 Scikit-learn
+
 🔹 NLTK / SpaCy
+
 🔹 WordCloud
+
 🔹 Seaborn & Plotly for interactive visualizations
 
-# 🧪 Task Objectives
-Load and clean the dataset
-
-Preprocess tweets (tokenization, stopword removal, lemmatization)
-
-Perform exploratory data analysis (EDA) to uncover sentiment trends
-
-Visualize sentiment distribution across different entities
-
-Apply sentiment classification models (e.g., Logistic Regression, Naive Bayes)
-
-Evaluate model performance using accuracy, precision, recall, and F1-score
-
-Generate word clouds and sentiment trend plots for better interpretation
 
 # 📈 Key Highlights
 🔹 Cleaned and preprocessed raw Twitter text effectively
+
 🔹 Performed in-depth analysis to reveal sentiment polarity trends
+
 🔹 Visualized entity-level sentiment shifts using bar plots and pie charts
+
 🔹 Trained and tested baseline classification models
+
 🔹 Highlighted frequent keywords and hashtags using WordClouds
+
 🔹 Achieved meaningful classification results that reflect public sentiment on various topics
 
 # 🧾 Conclusion
 This task demonstrated how social media sentiment analysis can provide actionable insights into public opinion and brand perception. Text preprocessing, EDA, and machine learning modeling were crucial to understanding and interpreting social sentiment effectively.
 
+
 # 📬 Contact
+
 📧 Email: guptavani901@gmail.com
+
 🔗 LinkedIn: Vani Gupta([https://www.linkedin.com/in/vani-gupta-952125253])
