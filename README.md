@@ -2,7 +2,7 @@
 This repository contains my submission for Task 4 of the Data Science Internship at CodeCraft Infotech. The objective of this task was to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes toward specific topics or brands.
 
 # 📂 Dataset
-The dataset used for this task is the Twitter_Entity _Sentiment _Analysis_Dataset([twitter_training.csv]) from Kaggle. It includes labeled Twitter posts with sentiment annotations related to various entities (e.g., organizations, celebrities, etc.).
+The dataset used for this task is the [Twitter Entity Sentiment Analysis Dataset](twitter_training.csv) from Kaggle. It includes labeled Twitter posts with sentiment annotations related to various entities (e.g., organizations, celebrities, etc.).
 
 # 🛠 Tools & Libraries Used
 🔹 Jupyter Notebook
@@ -43,4 +43,4 @@ This task demonstrated how social media sentiment analysis can provide actionabl
 
 📧 Email: guptavani901@gmail.com
 
-🔗 LinkedIn: Vani Gupta([https://www.linkedin.com/in/vani-gupta-952125253])
+🔗 LinkedIn: [Vani Gupta](https://www.linkedin.com/in/vani-gupta-952125253)
